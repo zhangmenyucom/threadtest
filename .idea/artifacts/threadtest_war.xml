@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="threadtest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="thread-test.war">
+      <element id="artifact" artifact-name="threadtest:war exploded" />
+    </root>
+  </artifact>
+</component>
